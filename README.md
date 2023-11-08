@@ -1,5 +1,8 @@
-<h1 align="center"  >Hi 👋, I'm Anza Tamveel</h1>
-<h3 align="center">A passionate Computer Science Student</h3>
+<div>
+<img align="center" alt="Coding"  width="100%" src="Intro.png">
+</div>
+<h3 align="center" style="font-family:verdana"><span style="font-family:Times new Roman"><b>A Passionate Computer Science Student</b></span>
+</h3>
 <img align="right" alt="Coding" height="300" width="300" src="https://media3.giphy.com/media/nFLW7PNGgN3lI68rdv/200w.gif?cid=6c09b952n41mds1pmcf3w1jay6qvfxiku81i5m9e52clzugz&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anzatamveel&label=Profile%20views&color=0e75b6&style=flat" alt="anzatamveel" /> </p>
