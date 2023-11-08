@@ -1,4 +1,3 @@
-
 <h1 align="center"  >Hi 👋, I'm Anza Tamveel</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
 <img align="right" alt="Coding" height="300" width="300" src="https://media3.giphy.com/media/nFLW7PNGgN3lI68rdv/200w.gif?cid=6c09b952n41mds1pmcf3w1jay6qvfxiku81i5m9e52clzugz&ep=v1_gifs_search&rid=200w.gif&ct=g">
