@@ -1,5 +1,6 @@
+<body>
 <div>
-<img align="center" alt="Coding"  width="100%" src="Intro.png">
+<img align="center" alt="Coding" width="100%"  height="300px" src="Black Modern Daily Motivation Twitter Header.png">
 </div>
 <h3 align="center" style="font-family:verdana"><span style="font-family:Times new Roman"><b>A Passionate Computer Science Student</b></span>
 </h3>
@@ -30,3 +31,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=anzatamveel&show_icons=true&locale=en&theme=dark&hide_border=false&border_radius=5&order=3" alt="anzatamveel"  height="150" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anzatamveel&" alt="anzatamveel" height="150" />
 </div>
+  </body>
