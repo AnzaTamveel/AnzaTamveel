@@ -7,7 +7,7 @@
 
   <img align="right" alt="Coding" height="300" width="300" src="https://octodex.github.com/images/tentocats.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anzatamveel&label=Profile%20views&color=0e75b6&style=flat" alt="anzatamveel" /> </p>
-- 🔭 I’m currently working on **Console Base Game and Application.**
+- 🔭 I’m currently working on **Desktop Application , Web development and Game Frameworks.**
 
 - 🌱 I’m currently learning **Web Development**
 
